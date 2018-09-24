@@ -1,0 +1,18 @@
+{
+  "Driver Id": "DriverNoAccess",
+  "Fuel Consumptions": [
+    {
+      "Drive Id": "Drive1",
+      "Fuel Type": "gasoline",
+      "Volume": 7.01,
+      "Price Per Litter": 4.95,
+      "Date": "11-29-2018"
+    },    {
+      "Drive Id": "Drive2",
+      "Fuel Type": "gasoline",
+      "Volume": 10.00,
+      "Price Per Litter": 1.90,
+      "Date": "11-06-2018"
+    }
+  ]
+}
